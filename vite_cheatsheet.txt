@@ -1,0 +1,7 @@
+npm install vite@latest
+cd project_name
+npm install
+npm run dev
+open localhost:3000
+
+//that's the basic installation for vite
